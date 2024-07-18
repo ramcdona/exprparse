@@ -27,6 +27,7 @@
 #include "exprparse.h"
 #include <cstddef>
 #include <cstring>
+#include <cstdint>
 #include <list>
 #include <math.h>
 #include <queue>
