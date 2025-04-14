@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.2)
+cmake_minimum_required(VERSION 3.10)
 
 # Download and unpack googletest at configure time
 configure_file(CMakeListsGTest.txt.in googletest-download/CMakeLists.txt)
